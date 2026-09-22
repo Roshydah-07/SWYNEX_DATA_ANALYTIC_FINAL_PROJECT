@@ -24,7 +24,7 @@ Using **Excel Power Query**, the following data cleansing steps were performed:
 - **Type Casting & Standardization:** Converted transaction dates to standard `YYYY-MM-DD` format and formatted monetary values (`Price_Per_Unit`, `Total_Spent`) as currency.
 - **Data Validation:** Reconciled math fields (`Quantity * Price_Per_Unit = Total_Spent`) to ensure financial accuracy.
 - ![dirty_cafe_data.png)(images/dashboard_view.png)
-- ![SWYNEX_DATA_DASHBOARD.png](images/dashboard_view.png)
+- ![cleaned_cafe_data.png](images/dashboard_view.png)
 
 ---
 
