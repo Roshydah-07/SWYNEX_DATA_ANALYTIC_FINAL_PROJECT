@@ -44,7 +44,7 @@ Using **Excel Power Query**, the following data cleansing steps were performed:
 ## 5. Interactive Business Intelligence Dashboard (Task 3)
 An executive dashboard was constructed in **Power BI Desktop** featuring custom UI card containers, light gray canvas styling, and interactive slicers.
 
-![Power BI Interactive Dashboard](images/dashboard_view.png)
+![SWYNEX_DATA_DASHBOARD.png](images/dashboard_view.png)
 
 ### Dashboard Features
 - **Dynamic Slicers:** Interactive filtering by Location (`In-store`, `Takeaway`), Payment Channel (`Cash`, `Credit Card`, `Digital Wallet`), and Date Range.
